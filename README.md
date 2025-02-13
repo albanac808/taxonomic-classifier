@@ -11,4 +11,6 @@ A Python application that provides complete taxonomic classification for animals
 [We'll add setup instructions as we build]
 
 ## Usage
-[We'll add usage examples as we build]
+Execute search_animals.py
+type in the animal name
+reap the results
