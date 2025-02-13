@@ -1,0 +1,2 @@
+requests==2.31.0  # for API calls
+python-dotenv==1.0.0  # for environment variables
